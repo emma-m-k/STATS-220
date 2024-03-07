@@ -1,6 +1,8 @@
 # stats220
 
-Hello! My name is Emma Knight  This is my first repo for **STATS 220**.
+## Hello!~
+
+My name is Emma Knight  This is my first repo for **STATS 220**.
 
 *This repo will be used to mark the start of my R code journey* 😁
 
