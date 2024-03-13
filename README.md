@@ -12,6 +12,7 @@ This is my first repo for **STATS 220**.
 
 <img src="https://github.com/emma-m-k/STATS-220/assets/161567370/1f7b66f5-6e06-478c-b9a5-9abcef27e85b" width="224.407" height="296">
 
-Check out my socials:
-1. https://www.facebook.com/profile.php?id=61555887344811
-2. https://github.com/emma-m-k
+Feel free to reach me by email or check out my socials:
+1. ekni328@aucklanduni.ac.nz
+2. https://www.facebook.com/profile.php?id=61555887344811
+3. https://github.com/emma-m-k
